@@ -1,7 +1,7 @@
 ---
 page_type: sample
 languages:
-  - csharp
+  - csharp.
 products:
   - azure
   - service-connector
